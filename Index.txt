@@ -1,8 +1,0 @@
-<html lang="pt-br">
-
-<head>
-<meta charset="utf-8">
- <title> Ana Frango Elétrico </title>
-</head>
-
-</html>
